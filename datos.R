@@ -1,0 +1,2 @@
+datos <- rnorm(100)
+
